@@ -1,5 +1,5 @@
 /* Team Id:4289
- * Author List: Yashwant kumar,Abhinav Trivedi,Ayush jha,sathyamitra.
+ * Author List: Yashwant kumar.
  * filename: task5-main.c
  * Theme: Construct O-Bot.
  * Global Variables: current_pos,direction,pick_array,place_array,pick_right,place_high.
