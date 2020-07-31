@@ -4,7 +4,7 @@ It is a part of a competition named E-yantra conducted by IIT-B under MHRD.
 We secured a rank of all india 8th.
 
 Equipments used for this task are:
-* ATmega-2560(8 bit micro-controller).
+* ATmega-2560(8 bit micro-controller used C for coding).
 * 2 Sharp sensor (used for pssing through walls).
 * White Line sensor (used for detecting black lines).
 * 2 DC motors(150 RPM).
