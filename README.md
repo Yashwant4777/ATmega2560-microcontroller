@@ -1,7 +1,7 @@
-# ATmega2560-microcontroller.
+# Fire-Bird V ATMega2560-MicroController.
 Made a path follower bot which has the ability to pick and place the objects at the required place by following the shotest path.
 It is a part of a competition named E-yantra conducted by IIT-B under MHRD.
-We secured a rank of all india 8th.
+Secured a rank of all India 8th.
 
 Equipments used for this task are:
 * ATmega-2560(8 bit micro-controller used C for coding).
