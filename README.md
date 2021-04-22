@@ -5,7 +5,7 @@ Secured a rank of all India 8th.
 
 Equipments used for this task are:
 * ATmega-2560(8 bit micro-controller used C for coding).
-* 2 Sharp sensor (used for pssing through walls).
+* 2 Sharp sensor (used for passing through walls).
 * White Line sensor (used for detecting black lines).
 * 2 DC motors(150 RPM).
 * 1 motor controller.
