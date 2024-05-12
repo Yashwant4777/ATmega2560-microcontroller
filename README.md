@@ -1,7 +1,7 @@
 # Fire-Bird V ATMega2560-MicroController.
 Made a path follower bot which has the ability to pick and place the objects at the required place by following the shotest path which was found using the shortest path algorithm namely Dijistra.
 It is a part of a competition named E-yantra conducted by IIT-B under MHRD.
-Secured a All India Rank 8th.
+Secured a All India Rank 4th.
 
 Equipments used for this task are:
 * ATmega-2560(8 bit micro-controller used C for coding).
